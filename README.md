@@ -5,4 +5,4 @@ This repository contains a java implementation of a standard deck of cards. This
 
 ## Authors
 
-* **Shaun Riddering** - *All coding* - [ridde037](https://github.com/ridde037)
+* **Shaun Riddering** - [ridde037](https://github.com/ridde037)
